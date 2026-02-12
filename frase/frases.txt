@@ -1,3 +1,7 @@
 "Querer ser otra persona es malgastar la persona que eres." Marilyn Monroe
 "Nunca pierdo. O gano o aprendo." Nelson Mandela
+<<<<<<< HEAD
 "Nunca dejes de creer" Felipe Garcia
+=======
+"Ganar Ganar y volver a ganar." Felipe Garcia
+>>>>>>> 2bd436a923f92f5125e0ec9627447d15073cabad
